@@ -1,4 +1,4 @@
-# Python---Office-Automation---Word1
+# Python---Office-Automation---Word2
 Using Python for Office Automation, Part 2 of Word.
 
 Situation introduction:
